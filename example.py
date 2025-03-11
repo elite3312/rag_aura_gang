@@ -57,3 +57,4 @@ gold_docs = [
 rag_results = hipporag.rag_qa(queries=queries, 
                               gold_docs=gold_docs,
                               gold_answers=answers)
+print(rag_results)
