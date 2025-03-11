@@ -62,3 +62,6 @@ Extraction Answers from LLM Response: 3it [00:00, 202950.19it/s]
 
 - HippoRAG/main.py has some configs that we can tune, as well as changing the dataset
 - running on local is quite expensive
+- possible topics
+  - create our own dataset
+  - change hyper parameters
